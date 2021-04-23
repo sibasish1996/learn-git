@@ -4,3 +4,8 @@ if (no1%10)==(no2%10):
    print("true")
 else:
     print("false")
+
+print("hello worlod")
+
+
+print("what about while loop")
